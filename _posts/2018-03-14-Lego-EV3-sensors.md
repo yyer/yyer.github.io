@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Lego Ev3 第3课 Following the line"
-subtitle:   " \"利用颜色传感器，让机器人沿线行走\""
+subtitle:   "利用颜色传感器，让机器人沿线行走"
 date:       2018-03-21 21:00:00
 author:     "yyer"
 header-img: "img/post-bg-2015.jpg"
@@ -14,7 +14,7 @@ tags:
 >Lego Ev3 一共有4个传感器
 
 >触觉传感器  
->超声波传感器（教育版）  
+>超声波传感器（教育版）  
 >平衡传感器  
 >颜色传感器
 
