@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Lego Ev3 第3课 Following the line"
-subtitle:   "利用颜色传感器，让机器人沿线行走"
+title:      Lego Ev3 第3课 Following the line
+subtitle:   利用颜色传感器，让机器人沿线行走
 date:       2018-03-21 21:00:00
-author:     "yyer"
+author:     yyer
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
